@@ -1,0 +1,8 @@
+ALGORITHM:
+1.start
+2.set a variable max to the first element of the array.
+3.Iterate through the remaining elements of the array.
+4.for each element, compare it with the current max. If the element is greater than max, update max to that element.
+5.After iterating through all elements, the variable max will contain the maximum element of the array.
+6.return max as the result.
+7.stop
